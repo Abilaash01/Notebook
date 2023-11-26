@@ -1,2 +1,2 @@
 # Notebook
-A notebook replica using Python.
+A Windows Notepad replica using Python.
